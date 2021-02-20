@@ -111,7 +111,7 @@ export class Calculator extends React.Component {
         });
       }
     }
-    this.input.focus();
+    // this.input.focus();
   };
 
   onFocus = () => {
