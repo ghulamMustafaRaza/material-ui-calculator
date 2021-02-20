@@ -1,6 +1,6 @@
 {
-  "name": "@pie-framework/material-ui-calculator",
-  "repository": "pie-framework/material-ui-calculator",
+  "name": "material-ui-calculator",
+  "repository": "ghulamMustafaRaza/material-ui-calculator",
   "publishConfig": {
     "access": "public"
   },
