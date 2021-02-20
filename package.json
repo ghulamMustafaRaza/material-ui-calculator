@@ -10,7 +10,7 @@
   ],
   "version": "3.0.2",
   "description": "",
-  "main": "lib/index.js",
+  "main": "src/index.jsx",
   "dependencies": {
     "@pie-framework/expression-parser": "^1.4.0",
     "classnames": "^2.2.5",
