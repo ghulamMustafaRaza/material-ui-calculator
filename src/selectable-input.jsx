@@ -106,6 +106,7 @@ export default class SelectableInput extends React.Component {
         onFocus={onFocus}
         onBlur={onBlur}
         value={value}
+        disabled
         onChange={this.onChange}
         onClick={this.onClick}
         InputProps={{
